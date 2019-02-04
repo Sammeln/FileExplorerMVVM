@@ -1,0 +1,5 @@
+F:\Git\FileExplorerMVVM\FileExplorer\obj\Debug\FileExplorer.csprojAssemblyReference.cache
+F:\Git\FileExplorerMVVM\FileExplorer\obj\Debug\MainWindow.g.cs
+F:\Git\FileExplorerMVVM\FileExplorer\obj\Debug\App.g.cs
+F:\Git\FileExplorerMVVM\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+F:\Git\FileExplorerMVVM\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
