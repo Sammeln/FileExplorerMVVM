@@ -55,6 +55,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Model\DirInfo.cs" />
+    <Compile Include="Service\FileSystemInfoConverter.cs" />
     <Compile Include="Service\FileSystemService.cs" />
     <Compile Include="ViewModel\DirectoryViewerViewModel.cs" />
     <Compile Include="ViewModel\ExplorerWindowViewModel.cs" />
